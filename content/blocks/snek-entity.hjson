@@ -1,0 +1,50 @@
+{
+	"type":"Turret",
+	"name":"snek sntity",
+	"description":"start praying boy",
+	"ammo":{
+		"scrap":{
+			"hitEffect":"shockwave",
+			"lifetime":999,
+			"bulletWidth":999,
+			"bulletHeight":999,
+			"knockback":999,
+			"backColor":"ffffff",
+			"frontColor":"missileYellow",
+			"splashDamageRadius":999,
+			"ammoMultiplier":999,
+			"splashDamage":999,
+			"damage":999,
+			"trailEffect":"incendTrail",
+			"speed":999
+		}
+	},
+	"reload":450,
+	"range":999,
+	"size":1,
+	"heatColor":"ffffff",
+	"ammoUseEffect":"shellEjectBig",
+	"shootEffect":"bigShockwave",
+	"health":69420,
+	"inaccuracy":0,
+	"recoil":0,
+	"liquidCapacity":100,
+	"targetAir":true,
+	"targetGround":true,
+	"shots":1,
+	"rotateSpeed":0.0,
+	"shootSound":"beam",
+	"restitution":0.0,
+	"shootCone":360,
+	"consumes":{
+		"liquid":{"liquid": "memes", "amount":0.5}
+	},
+	"requirements":[
+		{"item":"surge-alloy","amount":69},
+		{"item":"phase-fabric","amount":69},
+		{"item":"silicon","amount":69},
+		{"item":"titanium","amount":69}
+		],
+	"research":"mtt3",
+	"category":"turret"
+}

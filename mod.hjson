@@ -1,0 +1,7 @@
+name: big snek
+displayName: Big [gold]SNEKS[]
+author: snek
+description: snek. That's it.
+version: "1.0"
+minGameVersion: "104.10"
+dependencies: [ ]

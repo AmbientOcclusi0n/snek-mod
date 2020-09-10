@@ -1,0 +1,9 @@
+{
+	"name":"memes",
+	"descrption":"yummy",
+	"color":"ffff00",
+	"flammability":0,
+	"temperature":0.5,
+	"heatcapacity":2.0,
+	"viscosity":0.2
+}
